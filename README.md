@@ -35,7 +35,17 @@
   </div>
 
 ---
+<a href="https://github.com/Henriquelz26">
+  <div align=center>
+    <img height="168em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Henriquelz26&show_icons=true&include_all_commits=true&count_private=true&theme=merko&hide=css"/>
+    <img height="168em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Henriquelz26&layout=compact&langs_count=10&theme=merko&hide=css"/>
+  </div>
+</a>
+
+---
 
 ## How to find me 💬
 <a href="https://www.instagram.com/henrique.nz_/"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="www.linkedin.com/in/henrique-lenz"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://mail.google.com/mail/?view=cm&to=henriquelenz0712@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   
